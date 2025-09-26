@@ -1,0 +1,18 @@
+Exercici 1: 2/2
+Vigila amb els noms de les variables perquè et podrà portar a errors fàcilment evitables:
+Preu_entrada * nombre_enrtrades
+
+  Per exemple, 
+      - escriu-les sempre en minuscules
+      - escriu-les bé (nombre_entrades)
+
+Exercici 2: 1.5/1.5
+
+Exercici 3: 1.5/1.5
+
+Exercici 4: 4/4
+
+Github: 1/1
+Jupyter: 1/1
+
+  Nota final: 10
